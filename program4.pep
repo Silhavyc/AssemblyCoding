@@ -1,0 +1,7 @@
+LDBA 0041, i
+STBA FC16, d
+ADDA 0001, i
+CPBA 005B, i
+BRNE , i
+STOP
+.END
